@@ -1,0 +1,24 @@
+Nabeul,21 juin 1956,787 920,2 840,27
+Tunis,21 juin 1956,1056 ,247288,8	
+Ariana,3 décembre 1983,576 088, 482, 6
+BenArous,3 décembre 1983,631 842,761,13
+Manouba,31 juillet 2000,379 518,1 137,10	
+Bizerte,21 juin 1956,568 219,3 750,17
+Beja,21 juin 1956,303 032 ,3 740,12		
+Jendouba,21 juin 1956,401 477,3 100	9,14		
+Kef,21 juin 1956,243 156,5 081,15
+Siliana,5 juin 1974,223 087,4 642,12
+Kairouan,21 juin 1956,570 559,6 712,19
+Kasserine, 21 juin 1956,439 243,8 260,19
+SidiBouzid,1973,429 912,7 400,17
+Sfax,21 juin 1956,955 421,7 545,23,126	
+Mahdia,5 juin 1974,410 812,2 878,18
+Medenine,21 juin 1956,479 520,9 167,10	
+Gabes,21 juin 1956,374 300,7 166,16		
+Gafsa,21 juin 1956,337 331,7 807,13		
+Tozeur,21 juin 1956,107 912,5 593,6		
+Kebili,1981,156 961,22 454,8	
+Tataouine,2 mars 1981,149 453,38 889,7
+Zaghouan,1976,176 945,2 820,8	
+Monastir,5 juin 1974,548 828,1 024,31		
+Sousse,21 juin 1956,674 971,2 669,1
